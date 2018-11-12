@@ -1,0 +1,13 @@
+
+10000
+10000
+savetofile
+savetofile
+sum:20000
+sum:20000
+10000
+10000
+savetofile
+savetofile
+sum:40000
+sum:40000
